@@ -39,3 +39,25 @@ if (place_meeting(x,y+vsp,Obj_invisibleWall))
 	vsp = 0;
 }
 y = y + vsp;
+
+//animation
+if (!place_meeting(x,y+1,Obj_invisibleWall))
+{
+	sprite_index = Spr_Player_Jump;
+	image_speed = 0;
+	if (vsp > 0) image_index = 1; else image_index = 0;
+}
+else
+{
+	image_speed = 1;
+	if (hsp == 0 )
+	{
+		sprite_index = Spr_Player;
+	}
+	else
+	{
+		sprite_index = Spr_Player_walk;
+	}
+}
+
+if (hsp !=0) image_xscale = sign(hsp);
