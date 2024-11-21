@@ -3,11 +3,16 @@
   "resourceVersion": "1.6",
   "name": "My Platformer",
   "resources": [
+    {"id":{"name":"Obj_Dirt","path":"objects/Obj_Dirt/Obj_Dirt.yy",},"order":3,},
+    {"id":{"name":"Spr_Player_Jump","path":"sprites/Spr_Player_Jump/Spr_Player_Jump.yy",},"order":5,},
     {"id":{"name":"Spr_InvisibleWall","path":"sprites/Spr_InvisibleWall/Spr_InvisibleWall.yy",},"order":2,},
+    {"id":{"name":"Spr_Dirt","path":"sprites/Spr_Dirt/Spr_Dirt.yy",},"order":6,},
+    {"id":{"name":"Obj_Block","path":"objects/Obj_Block/Obj_Block.yy",},"order":2,},
     {"id":{"name":"Obj_invisibleWall","path":"objects/Obj_invisibleWall/Obj_invisibleWall.yy",},"order":1,},
     {"id":{"name":"Spr_Block","path":"sprites/Spr_Block/Spr_Block.yy",},"order":1,},
+    {"id":{"name":"Spr_Player_walk","path":"sprites/Spr_Player_walk/Spr_Player_walk.yy",},"order":3,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
-    {"id":{"name":"Spr_PLayer","path":"sprites/Spr_PLayer/Spr_PLayer.yy",},"order":0,},
+    {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

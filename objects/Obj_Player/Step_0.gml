@@ -13,7 +13,7 @@ hsp = _move * walksp
 
 vsp = vsp + grv;
 
-if (place_meeting(x,y+0.5,Obj_invisibleWall)) and (key_jump)
+if (place_meeting(x,y+2,Obj_invisibleWall)) and (key_jump)
 {
 	vsp = -jumpsp
 }
