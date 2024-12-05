@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_Block","order":2,"path":"objects/Obj_Block/Obj_Block.yy",},
+    {"name":"Obj_bricks","order":4,"path":"objects/Obj_bricks/Obj_bricks.yy",},
+    {"name":"Obj_Dirt","order":3,"path":"objects/Obj_Dirt/Obj_Dirt.yy",},
+    {"name":"Obj_invisibleWall","order":1,"path":"objects/Obj_invisibleWall/Obj_invisibleWall.yy",},
+    {"name":"Obj_Player_Jump","order":6,"path":"objects/Obj_Player_Jump/Obj_Player_Jump.yy",},
+    {"name":"Obj_Player_Move","order":5,"path":"objects/Obj_Player_Move/Obj_Player_Move.yy",},
+    {"name":"Spr_Background","order":9,"path":"sprites/Spr_Background/Spr_Background.yy",},
+    {"name":"Spr_Block","order":1,"path":"sprites/Spr_Block/Spr_Block.yy",},
+    {"name":"Spr_Bricks","order":7,"path":"sprites/Spr_Bricks/Spr_Bricks.yy",},
+    {"name":"Spr_Clouds","order":10,"path":"sprites/Spr_Clouds/Spr_Clouds.yy",},
+    {"name":"Spr_Dirt","order":6,"path":"sprites/Spr_Dirt/Spr_Dirt.yy",},
+    {"name":"Spr_InvisibleWall","order":2,"path":"sprites/Spr_InvisibleWall/Spr_InvisibleWall.yy",},
+    {"name":"Spr_Player_Jump","order":5,"path":"sprites/Spr_Player_Jump/Spr_Player_Jump.yy",},
+    {"name":"Spr_Player_walk","order":3,"path":"sprites/Spr_Player_walk/Spr_Player_walk.yy",},
+    {"name":"Spr_Player","order":4,"path":"sprites/Spr_Player/Spr_Player.yy",},
+    {"name":"Spr_TileSet","order":8,"path":"sprites/Spr_TileSet/Spr_TileSet.yy",},
+  ],
+}
