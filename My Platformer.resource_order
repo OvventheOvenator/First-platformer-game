@@ -7,6 +7,7 @@
     {"name":"Obj_invisibleWall","order":1,"path":"objects/Obj_invisibleWall/Obj_invisibleWall.yy",},
     {"name":"Obj_Player_Jump","order":6,"path":"objects/Obj_Player_Jump/Obj_Player_Jump.yy",},
     {"name":"Obj_Player_Move","order":5,"path":"objects/Obj_Player_Move/Obj_Player_Move.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Spr_Background","order":9,"path":"sprites/Spr_Background/Spr_Background.yy",},
     {"name":"Spr_Block","order":1,"path":"sprites/Spr_Block/Spr_Block.yy",},
     {"name":"Spr_Bricks","order":7,"path":"sprites/Spr_Bricks/Spr_Bricks.yy",},

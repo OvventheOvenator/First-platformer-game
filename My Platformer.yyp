@@ -41,6 +41,7 @@
     {"id":{"name":"Obj_Player_Move","path":"objects/Obj_Player_Move/Obj_Player_Move.yy",},},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Spr_Background","path":"sprites/Spr_Background/Spr_Background.yy",},},
     {"id":{"name":"Spr_Block","path":"sprites/Spr_Block/Spr_Block.yy",},},
     {"id":{"name":"Spr_Bricks","path":"sprites/Spr_Bricks/Spr_Bricks.yy",},},
@@ -57,6 +58,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
